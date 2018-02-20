@@ -1,0 +1,19 @@
+current directory: /Users/takanorimidorikawa/rails_product2/jp_cm/vendor/bundle/gems/byebug-10.0.0/ext/byebug
+/Users/takanorimidorikawa/.rbenv/versions/2.4.0/bin/ruby -r ./siteconf20180221-32658-d4lm5w.rb extconf.rb
+creating Makefile
+
+current directory: /Users/takanorimidorikawa/rails_product2/jp_cm/vendor/bundle/gems/byebug-10.0.0/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/takanorimidorikawa/rails_product2/jp_cm/vendor/bundle/gems/byebug-10.0.0/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/takanorimidorikawa/rails_product2/jp_cm/vendor/bundle/gems/byebug-10.0.0/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20180221-32658-1ddmf2m/byebug
